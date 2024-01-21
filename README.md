@@ -17,7 +17,7 @@ This project is a Python-based simulator of the Enigma machine, a famous cryptog
 
 To run the Enigma machine simulator type:
 
-<code>python enigma_ui.py</code>
+'python enigma_ui.py'
 
 In the interface:
 1. Set the rotor positions in the "Rotor Positions" field (e.g., `5,12,21`).
