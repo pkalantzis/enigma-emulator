@@ -29,7 +29,7 @@ Ensure you have Python **3.x** installed on your system.
 
 3. Run the program:
    ```sh
-   python enigma_emulator.py
+   python enigma.py
    ```
 
 ## Usage
@@ -72,6 +72,5 @@ This project is licensed under the **MIT License**.
 ---
 
 💡 **Fun Fact:** The real Enigma Machine was famously cracked by **Alan Turing** and his team at Bletchley Park, significantly shortening WWII!
-```
 
 ---
