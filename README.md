@@ -49,7 +49,7 @@ Enter a message to encrypt/decrypt (or 'exit' to quit): KANPR
 Output: HELLO
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 You can modify the Enigma machine's behavior by adjusting:
 
@@ -57,7 +57,7 @@ You can modify the Enigma machine's behavior by adjusting:
 - **Reflector wiring** (`reflector`)
 - **Plugboard settings** (`plugboard` dictionary)
 
-## 🛠️ Contribution
+## Contribution
 
 Feel free to **fork** this repository and submit a **pull request** for improvements! Some ideas:
 
